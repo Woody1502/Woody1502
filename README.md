@@ -8,10 +8,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=woody1502.woody1502" />
-</div>
-
 ### Обо мне
 
 Python-разработчик из Москвы. Пришёл в бэкенд из embedded/робототехники.
@@ -62,7 +58,6 @@ Python-разработчик из Москвы. Пришёл в бэкенд и
 - `api-yamdb`, `api-final-yatube` — API на Django REST Framework.
 - `playwrightLab` — автотесты на Playwright с CI.
 
-Часть рабочих проектов (робот, автопилот, серверная часть на роботе) закрыта.
 
 ### Статистика
 
