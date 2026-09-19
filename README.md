@@ -1,49 +1,84 @@
-### Алексей Смолко
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Алексей%20Смолко&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-Python-разработчик, Москва. Сейчас в ФНАЦ ВИМ — пишу управление роботом на ROS2, обучаю и оптимизирую YOLO под TensorRT, чтобы это вообще успевало работать на Jetson в реальном времени, и заворачиваю всё это в FastAPI-сервер, через который роботом можно рулить удалённо.
+<div align="center">
+  <a href="mailto:woody.smolko@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email"  />
+  </a>
+</div>
 
-До этого пришёл в бэкенд из embedded/робототехники, так что распределённые системы и работа с железом под ограничениями — это привычная территория, а не что-то из книжки.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=woody1502.woody1502" />
+</div>
 
-Из репозиториев здесь:
+### Обо мне
 
-- `inference_potato` — детекция дефектов картофеля на конвейере, ONNX Runtime и TensorRT-версии инференса, есть архив более ранних итераций в `experiments/` (переписывал пайплайн несколько раз, пока не устроила скорость)
-- `Mini-OAuth2` — OAuth2 с нуля на FastAPI, чтобы разобраться, что происходит под капотом у auth/resource серверов
-- `api-yamdb`, `api-final-yatube` — учебные API на Django REST Framework
-- `playwrightLab` — автотесты на Playwright с прогоном в CI
+Python-разработчик из Москвы. Пришёл в бэкенд из embedded/робототехники, поэтому хорошо понимаю распределённые и real-time системы, отказоустойчивость и работу под ограничениями железа.
 
-Часть рабочих проектов (сам робот, автопилот, серверная часть на роботе) закрыта — это не мои репозитории, а рабочие.
+- Работаю Python-разработчиком в ФНАЦ ВИМ: управление роботом на ROS2, детекция и сегментация объектов (YOLO, PyTorch, OpenCV), перенос инференса на TensorRT для Nvidia Jetson, FastAPI-сервер для удалённого управления роботом.
+- Учусь в ИТМО, направление «Фронтенд и бэкенд разработка» (выпуск 2027).
+- Ранее окончил МИРЭА по направлению «Машинное обучение и ИИ» (2025).
+- Интересуюсь ИИ-агентами и их интеграцией в бэкенд-продукты.
 
-## Стек
+### Технологии
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Alembic](https://img.shields.io/badge/Alembic-4B8BBE?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![vLLM](https://img.shields.io/badge/vLLM-2A2A2A?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo" />
+</div>
 
-Пишите на woody.smolko@gmail.com.
+### Проекты
+
+- `inference_potato` — детекция дефектов картофеля на конвейере, ONNX Runtime и TensorRT-версии инференса.
+- `Mini-OAuth2` — OAuth2 с нуля на FastAPI (auth/resource server).
+- `api-yamdb`, `api-final-yatube` — API на Django REST Framework.
+- `playwrightLab` — автотесты на Playwright с CI.
+
+Часть рабочих проектов (робот, автопилот, серверная часть на роботе) закрыта.
+
+### Статистика
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Woody1502&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Woody1502&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Woody1502&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Woody1502/Woody1502/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Woody1502/Woody1502/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Woody1502/Woody1502/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
