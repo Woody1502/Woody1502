@@ -47,29 +47,3 @@ Python-разработчик. Пришёл в бэкенд из embedded/роб
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo" />
 </div>
 
-### Проекты
-
-- `inference_potato` — детекция дефектов картофеля на конвейере, ONNX Runtime и TensorRT-версии инференса.
-- `Mini-OAuth2` — OAuth2 с нуля на FastAPI (auth/resource server).
-- `api-yamdb`, `api-final-yatube` — API на Django REST Framework.
-- `playwrightLab` — автотесты на Playwright с CI.
-
-
-### Статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Woody1502&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Woody1502&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Woody1502&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Woody1502/Woody1502/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Woody1502/Woody1502/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Woody1502/Woody1502/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
