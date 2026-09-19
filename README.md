@@ -2,17 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Алексей%20Смолко&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <a href="mailto:woody.smolko@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email"  />
-  </a>
-</div>
+
 
 ### Обо мне
 
-Python-разработчик из Москвы. Пришёл в бэкенд из embedded/робототехники.
+Python-разработчик. Пришёл в бэкенд из embedded/робототехники.
 
-- Работаю Python-разработчиком в ФНАЦ ВИМ: управление роботом на ROS2, детекция и сегментация объектов (YOLO, PyTorch, OpenCV), перенос инференса на TensorRT для Nvidia Jetson.
+- Работаю Python-разработчиком в НИИ: управление роботом на ROS2, детекция и сегментация объектов (YOLO, PyTorch, OpenCV), оптимизация с помощью TensorRT для edge девайсов.
 - Учусь в ИТМО, направление «Фронтенд и бэкенд разработка» (выпуск 2027).
 - Ранее окончил МИРЭА по направлению «Машинное обучение и ИИ» (2025).
 - Интересуюсь ИИ-агентами и их интеграцией в бэкенд-продукты.
