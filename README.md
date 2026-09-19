@@ -1,34 +1,18 @@
-<div align="center">
+### Алексей Смолко
 
-# Привет, меня зовут Алексей!
+Python-разработчик, Москва. Сейчас в ФНАЦ ВИМ — пишу управление роботом на ROS2, обучаю и оптимизирую YOLO под TensorRT, чтобы это вообще успевало работать на Jetson в реальном времени, и заворачиваю всё это в FastAPI-сервер, через который роботом можно рулить удалённо.
 
-Python-разработчик из Москвы. Пишу backend (FastAPI, Django) и внедряю нейросети в продакшн — от обучения моделей детекции/сегментации до их деплоя на edge-устройствах (Nvidia Jetson) в составе роботизированных систем.
+До этого пришёл в бэкенд из embedded/робототехники, так что распределённые системы и работа с железом под ограничениями — это привычная территория, а не что-то из книжки.
 
-</div>
+Из репозиториев здесь:
 
-## Чем занимаюсь
+- `inference_potato` — детекция дефектов картофеля на конвейере, ONNX Runtime и TensorRT-версии инференса, есть архив более ранних итераций в `experiments/` (переписывал пайплайн несколько раз, пока не устроила скорость)
+- `Mini-OAuth2` — OAuth2 с нуля на FastAPI, чтобы разобраться, что происходит под капотом у auth/resource серверов
+- `api-yamdb`, `api-final-yatube` — учебные API на Django REST Framework
+- `playwrightLab` — автотесты на Playwright с прогоном в CI
 
-- 🤖 Разрабатываю и поддерживаю систему управления роботом на **ROS2** с интеграцией по Modbus/COM
-- 🎯 Обучаю и оптимизирую модели детекции/сегментации (**YOLO, PyTorch, OpenCV**), перевожу инференс на **TensorRT** для real-time работы на Jetson
-- ⚙️ Пишу backend-сервисы на **FastAPI / Django / Flask**, покрываю автотестами (**pytest**), настраиваю **CI/CD** (Docker, GitHub Actions)
-- 🧠 Интересуюсь ИИ-агентами и их интеграцией в бэкенд-продукты (LangChain, vLLM)
+Часть рабочих проектов (сам робот, автопилот, серверная часть на роботе) закрыта — это не мои репозитории, а рабочие.
 
-## Стек
+Стек: Python, FastAPI/Django/Flask, PyTorch, OpenCV, ROS2, Docker, Postgres.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## Связь
-
-[![Email](https://img.shields.io/badge/Email-woody.smolko%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:woody.smolko@gmail.com)
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Woody1502&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub stats" height="150"/>
-</div>
+Пишите на woody.smolko@gmail.com.
